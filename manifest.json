@@ -1,0 +1,13 @@
+{
+    "manifest_version":2,
+    "name": "ED Theme",
+    "description": "Un éditeur de theme ecoledirecte.com",
+    "version": "1.0",
+    "background":{
+        "scripts":["theme.js"]
+    },
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "permissions":["storage", "tabs", "https://www.ecoledirecte.com/*"]
+}
