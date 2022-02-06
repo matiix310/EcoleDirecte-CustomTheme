@@ -3,6 +3,7 @@
     "name": "ED Theme",
     "description": "Un éditeur de theme ecoledirecte.com",
     "version": "1.0",
+    "author": "Matiix310",
     "background":{
         "scripts":["theme.js"]
     },
